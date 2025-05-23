@@ -1,0 +1,1 @@
+export default function Page() { return <h1>模型查看器</h1> }

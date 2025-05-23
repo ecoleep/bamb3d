@@ -1,0 +1,1 @@
+export default function Page() { return <h1>竹产业大数据平台</h1> }

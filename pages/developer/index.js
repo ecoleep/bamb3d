@@ -1,0 +1,1 @@
+export default function Page() { return <h1>API 开放平台</h1> }

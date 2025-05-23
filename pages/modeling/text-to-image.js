@@ -1,0 +1,1 @@
+export default function Page() { return <h1>文本生成图</h1> }

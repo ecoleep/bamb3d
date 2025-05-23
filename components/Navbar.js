@@ -1,0 +1,1 @@
+export default function Navbar() { return <nav style={{padding:'1rem', background:'#def'}}>导航栏</nav> }

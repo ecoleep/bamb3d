@@ -1,0 +1,1 @@
+export default function Page() { return <h1>材料与设计实验室</h1> }

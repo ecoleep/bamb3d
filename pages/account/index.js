@@ -1,0 +1,1 @@
+export default function Page() { return <h1>用户中心</h1> }

@@ -1,0 +1,1 @@
+export default function Page() { return <h1>应用案例中心</h1> }

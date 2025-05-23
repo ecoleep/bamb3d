@@ -1,0 +1,1 @@
+export default function Page() { return <h1>图转3D模型</h1> }
